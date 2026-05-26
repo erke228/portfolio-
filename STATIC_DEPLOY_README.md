@@ -16,7 +16,7 @@ npm run preview
 ## GitHub Pages
 
 1. Создай репозиторий на GitHub.
-2. Запушь проект в ветку `main`.
+    2. Запушь проект в ветку `main`.
 3. Открой `Settings -> Pages`.
 4. В `Source` выбери `GitHub Actions`.
 
